@@ -30,7 +30,8 @@
 ![image](https://github.com/user-attachments/assets/03bdfd19-125f-4a27-8462-2722b5a5810d)
 
 ### Диаграмма состояний
-![image](https://github.com/user-attachments/assets/99f1b845-e7da-4de4-b793-350ad5c70f30)
+![Uploading изображение.png…]()
+
 
 
 ---
