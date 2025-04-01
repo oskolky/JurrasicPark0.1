@@ -27,10 +27,11 @@
 
 ## 🖼️ UML Диаграмиы
 ### Диаграмма классов
-![image](https://github.com/user-attachments/assets/33e2c29a-391f-42cd-86f3-25c986c74413)
+![image](https://github.com/user-attachments/assets/03bdfd19-125f-4a27-8462-2722b5a5810d)
 
 ### Диаграмма состояний
-![image](https://github.com/user-attachments/assets/178e83de-2faa-47c1-82c7-1828c994601f)
+![image](https://github.com/user-attachments/assets/99f1b845-e7da-4de4-b793-350ad5c70f30)
+
 
 ---
 
@@ -67,4 +68,5 @@
 
 ---
 ## ✅ Testing
-![image](https://github.com/user-attachments/assets/d305ad0e-c96a-43e0-b750-6568365af6fe)
+![image](https://github.com/user-attachments/assets/b936db03-36f4-42c7-a3aa-4397c7146664)
+
